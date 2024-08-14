@@ -1,0 +1,62 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "iPhone 14",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 45567,
+        "thumbnail": "https://inventstore.in/wp-content/uploads/2023/04/Purple-300x300.webp",
+        "quantity" : 1
+      },
+      {
+        "id": 2,
+        "title": "iPhone 15",
+        "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+        "price": 74617,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqeK6f0nBr2cR2_EX7C1uT69db-8XZRe44QQ&s",
+        "quantity" : 1
+      },
+      {
+        "id": 3,
+        "title": "Galaxy S24",
+        "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+        "price": 103667,
+        "category": "smartphones",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4tjT1nKNICSiNmda_W_1IfXV_D7tOYKzdQg&s",
+        "quantity" : 1
+      },
+      {
+        "id": 4,
+        "title": "OPPOF27 Pro",
+        "description": "OPPO F19 is officially announced on April 2021.",
+        "price": 23240,
+        "thumbnail": "https://www.oppo.com/content/dam/oppo-campaign-site/in/events/oppo-product/image-link/march-2023/OPPO_F27_Pro+_5G_Midnight_Navy_frontback_1200x1200.jpg",
+        "quantity" : 1
+      },
+      {
+        "id": 5,
+        "title": "Vivo V29 5G",
+        "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+        "price": 41417,
+        "thumbnail": "https://media.croma.com/image/upload/v1708669359/Croma%20Assets/Communication/Mobiles/Images/301350_0_x02kaz.png",
+        "quantity" : 1
+      },
+      {
+        "id": 6,
+        "title": "MacBook Pro",
+        "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+        "price": 145167,
+        "thumbnail": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp14-spacegray-select-202310?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1697230830200",
+        "quantity" : 1
+      },
+      {
+        "id": 7,
+        "title": "Galaxy Book Pro",
+        "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+        "price": 124417,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5XetARlIJK0MA86cqjYc9j6RnUrnYAVRbCg&s",
+        "quantity" : 1
+      }
+    ]
+  }
+  
